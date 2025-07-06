@@ -16,5 +16,7 @@ public class test : MonoBehaviour
         Debug.Log("ronaldinho");
 
         Debug.Log("messi ");
+
+        Debug.Log("fuck you");
     }
 }
