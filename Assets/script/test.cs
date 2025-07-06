@@ -14,5 +14,7 @@ public class test : MonoBehaviour
     void Update()
     {
         Debug.Log("ronaldinho");
+
+        Debug.Log("messi ");
     }
 }
